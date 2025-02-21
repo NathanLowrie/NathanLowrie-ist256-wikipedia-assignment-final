@@ -1,0 +1,48 @@
+h1 {
+    font-size: 28px;
+    color: black;
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+    padding-bottom: 2px;
+    padding-top: 2px;
+}
+h2 {
+    font-size: 18px;
+    color: black;
+    border-bottom: 1px solid grey;
+    padding-bottom: 2px;
+    padding-top: 2px;
+}
+body {
+    font-size: 18px;
+    color: black;
+    background: ghostwhite;
+    font-family: sans-serif;
+}
+table {
+    border: 1px solid black;
+    float: right;
+    background: lightgrey;
+
+}
+table th {
+    font-size: 14px;
+    font-weight: normal;
+    text-align: left;
+}
+table td {
+    font-size: 13px;
+    font-weight: normal;
+    text-align: left;
+}
+table td img {
+    display: block;
+    margin: 0 auto;
+
+}
+.table-header {
+    font-size: 22px;
+    text-align: center;
+    padding-top: 10px;
+}
+
